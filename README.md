@@ -1,1 +1,13 @@
 # shopping-list
+- toast
+- milk
+- butter
+- chicken
+- banana
+- potatoes
+- onion
+- garlic
+- avocados
+- lemon
+- celery
+- carrots
