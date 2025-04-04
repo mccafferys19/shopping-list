@@ -11,3 +11,5 @@
 - lemon
 - celery
 - carrots
+- rice
+- applesauce
